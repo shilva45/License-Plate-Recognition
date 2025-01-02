@@ -112,7 +112,7 @@ This project is designed to:
 ![CM](./YOLO-Model/confusion_matrix.png)
 
 As well as the F1, Precision and Recall Curves:
-![F1](./YOLO-Model/11_curve.png)
+![F1](./YOLO-Model/F1_curve.png)
 ![P](./YOLO-Model/P_curve.png)
 ![PR](./YOLO-Model/PR_curve.png)
 ![R](./YOLO-Model/R_curve.png)
